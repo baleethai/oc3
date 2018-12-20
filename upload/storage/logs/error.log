@@ -1,0 +1,248 @@
+2018-07-11 4:15:43 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:17:49 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:17:57 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:52:47 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:55:31 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:56:43 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:56:58 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:57:28 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:58:38 - Error executing "PutObject" on "https://image.s3.amazonaws.com/download/index.html"; AWS HTTP error: Client error response [url] https://image.s3.amazonaws.com/download/index.html [status code] 403 [reason phrase] Forbidden AllAccessDisabled (client): All access to this object has been disabled - <?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>AllAccessDisabled</Code><Message>All access to this object has been disabled</Message><RequestId>068AD3C760B262CC</RequestId><HostId>yRU/IDXAlq0weDmoJX6jUlLaD21jvikpUY44PLc1McLeAwuIo38kbfvbGuzKIfPM8NoYdk4IIPQ=</HostId></Error>
+2018-07-11 4:58:38 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 438
+2018-07-11 4:58:46 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:59:02 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 4:59:25 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:08:10 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:10:26 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:12:46 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:15:41 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:15:42 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:15:44 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:17:54 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:20:35 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:20:37 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 127
+2018-07-11 5:30:08 - Encountered a permanent redirect while requesting https://images.s3.ap-southeast-1.amazonaws.com/download/index.html. Are you sure you are using the correct region for this bucket?
+2018-07-11 5:30:08 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 438
+2018-07-11 7:17:28 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 438
+2018-07-13 2:56:12 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 7
+2018-07-13 2:56:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 10
+2018-07-13 2:56:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 10
+2018-07-13 2:56:16 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 7
+2018-07-13 2:56:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 10
+2018-07-13 2:56:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\opencart3\upload\system\library\db\mysqli.php on line 10
+2018-07-13 9:20:34 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:44 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:45 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:45 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:45 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:46 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:46 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:20:48 - PHP Notice:  Undefined index: route in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\router.php on line 4
+2018-07-13 9:44:47 - Missing required client configuration options: 
+
+region: (string)
+
+  A "region" configuration value is required for the "cloudfront" service
+  (e.g., "us-west-2"). A list of available public regions and endpoints can be
+  found at http://docs.aws.amazon.com/general/latest/gr/rande.html.
+2018-07-13 9:45:09 - PHP Notice:  Undefined index: token in D:\xampp\htdocs\opencart3\upload\admin\controller\extension\module\cloudfront.php on line 438
+2018-07-13 10:04:34 - Missing required client configuration options: 
+
+region: (string)
+
+  A "region" configuration value is required for the "cloudfront" service
+  (e.g., "us-west-2"). A list of available public regions and endpoints can be
+  found at http://docs.aws.amazon.com/general/latest/gr/rande.html.
+2018-07-13 12:07:32 - Missing required client configuration options: 
+
+region: (string)
+
+  A "region" configuration value is required for the "cloudfront" service
+  (e.g., "us-west-2"). A list of available public regions and endpoints can be
+  found at http://docs.aws.amazon.com/general/latest/gr/rande.html.
+2018-07-18 3:43:26 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-07-18 3:43:26 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-07-18 3:43:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-07-18 3:43:32 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-07-18 3:43:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-07-18 3:43:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-07-18 3:43:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-07-18 3:43:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-07-18 3:52:59 - PHP Warning:  unlink(D:/xampp/htdocs/opencart3/upload/storage/cache/cache.store.1531889540): No such file or directory in D:\xampp\htdocs\opencart3\upload\system\library\cache\file.php on line 68
+2018-07-19 4:19:02 - Unable to open D:/xampp/htdocs/opencart3/upload/image/image/catalog/products/apple-macbook-12-inch-2017-01.jpg using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/image/catalog/products/apple-macbook-12-inch-2017-01.jpg): failed to open stream: No such file or directory
+2018-07-19 4:27:45 - PHP Notice:  Undefined variable: filePath in D:\xampp\htdocs\opencart3\upload\admin\model\extension\module\cloudfront.php on line 12
+2018-07-19 4:45:19 - PHP Notice:  Undefined index: APP_URL in D:\xampp\htdocs\opencart3\upload\admin\model\extension\module\cloudfront.php on line 13
+2018-07-19 4:59:03 - PHP Warning:  fopen(D:/xampp/htdocs/opencart3/upload/image/): failed to open stream: No such file or directory in D:\xampp\htdocs\opencart3\upload\admin\model\extension\module\cloudfront.php on line 14
+2018-07-19 5:58:00 - PHP Notice:  getimagesize(): Read error! in D:\xampp\htdocs\opencart3\upload\admin\model\tool\image.php on line 14
+2018-07-19 11:28:12 - Found 1 error while validating the input provided for the PutObject operation:
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 11:57:21 - Unable to open D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg): failed to open stream: No such file or directory
+2018-07-19 11:57:38 - Unable to open D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg): failed to open stream: No such file or directory
+2018-07-19 11:58:07 - Unable to open D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/http://localhost/opencart3/upload/image/catalog/editor/apple-macbook-12-inch-2017-01.jpg): failed to open stream: No such file or directory
+2018-07-19 11:59:27 - PHP Notice:  Undefined index: filename in D:\xampp\htdocs\opencart3\upload\admin\controller\common\filemanager.php on line 417
+2018-07-19 11:59:27 - Found 2 errors while validating the input provided for the PutObject operation:
+[Key] is missing and is a required parameter
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 11:59:38 - PHP Notice:  Undefined index: filename in D:\xampp\htdocs\opencart3\upload\admin\controller\common\filemanager.php on line 417
+2018-07-19 11:59:38 - Found 2 errors while validating the input provided for the PutObject operation:
+[Key] is missing and is a required parameter
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 11:59:57 - PHP Notice:  Undefined index: filename in D:\xampp\htdocs\opencart3\upload\admin\controller\common\filemanager.php on line 417
+2018-07-19 11:59:57 - Found 2 errors while validating the input provided for the PutObject operation:
+[Key] is missing and is a required parameter
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 11:59:59 - PHP Notice:  Undefined index: filename in D:\xampp\htdocs\opencart3\upload\admin\controller\common\filemanager.php on line 417
+2018-07-19 11:59:59 - Found 2 errors while validating the input provided for the PutObject operation:
+[Key] is missing and is a required parameter
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 12:00:18 - PHP Notice:  Undefined index: filename in D:\xampp\htdocs\opencart3\upload\admin\controller\common\filemanager.php on line 417
+2018-07-19 12:00:18 - Found 2 errors while validating the input provided for the PutObject operation:
+[Key] is missing and is a required parameter
+[Key] expected string length to be >= 1, but found string length of 0
+2018-07-19 12:00:40 - Unable to open D:/xampp/htdocs/opencart3/upload/image/xxx using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/xxx): failed to open stream: No such file or directory
+2018-07-19 12:00:42 - Unable to open D:/xampp/htdocs/opencart3/upload/image/xxx using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/xxx): failed to open stream: No such file or directory
+2018-07-19 12:07:29 - Unable to open D:/xampp/htdocs/opencart3/upload/image/xxx using mode r: fopen(D:/xampp/htdocs/opencart3/upload/image/xxx): failed to open stream: No such file or directory
+2018-08-13 8:08:22 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:13:07 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:13:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:13:15 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:13:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:14:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:14:40 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 8:18:21 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-13 10:22:39 - PHP Notice:  Undefined variable: coupon_category_query in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 35
+2018-08-13 10:54:10 - PHP Notice:  Undefined variable: getPromotion in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 284
+2018-08-13 10:54:26 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 110
+2018-08-13 10:54:26 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 121
+2018-08-13 10:54:27 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 110
+2018-08-13 10:54:27 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 121
+2018-08-13 10:55:42 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 110
+2018-08-13 10:55:42 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 121
+2018-08-13 10:56:03 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 110
+2018-08-13 10:56:03 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 121
+2018-08-13 10:57:51 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 109
+2018-08-13 10:57:51 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 120
+2018-08-13 10:58:57 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 109
+2018-08-13 10:58:57 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 120
+2018-08-13 10:59:13 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 109
+2018-08-13 10:59:13 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 119
+2018-08-13 10:59:37 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 109
+2018-08-13 10:59:37 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 119
+2018-08-13 11:00:07 - PHP Notice:  Undefined variable: code in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 119
+2018-08-13 11:01:54 - PHP Notice:  Undefined index: coupon in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 357
+2018-08-13 11:01:58 - PHP Notice:  Undefined index: coupon in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 357
+2018-08-13 11:02:05 - PHP Notice:  Undefined index: coupon in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 357
+2018-08-13 11:02:14 - PHP Notice:  Undefined index: coupon in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 357
+2018-08-13 11:02:17 - PHP Notice:  Undefined index: coupon in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\total\coupon.php on line 357
+2018-08-15 10:29:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 10:29:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:44:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:44:14 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:44:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:44:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:05 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:05 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:11 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:11 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:20 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:20 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 11:46:22 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\system\framework.php on line 108
+2018-08-15 11:46:22 - PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\opencart3\upload\storage\vendor\kint-php\kint\src\Kint.php:429) in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 25
+2018-08-15 12:28:23 - PHP Notice:  Undefined index: api_token in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 8
+2018-08-15 12:29:35 - PHP Notice:  Undefined index: api_token in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 8
+2018-08-15 12:29:35 - PHP Notice:  Undefined index: api_token in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 8
+2018-08-15 12:29:36 - PHP Notice:  Undefined index: api_token in D:\xampp\htdocs\opencart3\upload\catalog\controller\startup\session.php on line 8
+2018-08-16 2:44:44 - PHP Warning:  require(D:\xampp\htdocs\opencart3\upload\catalog\model\foxcore.php): failed to open stream: No such file or directory in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 3
+2018-08-16 4:01:48 - PHP Warning:  require(D:\xampp\htdocs\opencart3\upload\catalog\model\fox\core.php): failed to open stream: No such file or directory in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 3
+2018-08-16 4:33:50 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:50 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:51 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:52 - PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:33:52 - PHP Warning:  require(http://localhost/opencart3/upload/config.php): failed to open stream: no suitable wrapper could be found in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 7
+2018-08-16 4:49:02 - PHP Notice:  Undefined variable: filters in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 26
+2018-08-16 4:49:03 - PHP Notice:  Undefined variable: filters in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 26
+2018-08-16 4:49:03 - PHP Notice:  Undefined variable: filters in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 26
+2018-08-16 8:02:39 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:06:35 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:06:41 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:06:42 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:06:44 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:06:45 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:07:00 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\model\fox\home.php on line 9
+2018-08-16 8:10:18 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:10:19 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:10:19 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:10:41 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:10:42 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 10
+2018-08-16 8:13:32 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:38 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:39 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:39 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:40 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:40 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:41 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 15
+2018-08-16 8:13:55 - PHP Notice:  Undefined variable: url in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 14
+2018-08-16 8:18:10 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 11
+2018-08-16 8:18:11 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 11
+2018-08-16 8:18:12 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 11
+2018-08-16 8:18:12 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 11
+2018-08-16 8:18:12 - PHP Notice:  Undefined index: page in D:\xampp\htdocs\opencart3\upload\catalog\controller\home\index.php on line 11
+2018-08-18 4:59:15 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\xampp\htdocs\opencart3\upload\system\library\mail\mail.php on line 77
+2018-08-18 5:32:36 - PHP Warning:  A non-numeric value encountered in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\shipping\item.php on line 32
+2018-08-18 5:32:36 - PHP Warning:  A non-numeric value encountered in D:\xampp\htdocs\opencart3\upload\catalog\model\extension\shipping\item.php on line 34
+2018-08-18 14:47:45 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 7
+2018-08-18 14:47:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 10
+2018-08-18 14:47:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 10
+2018-08-18 14:47:46 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 7
+2018-08-18 14:47:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 10
+2018-08-18 14:47:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/oc3/upload/system/library/db/mysqli.php on line 10
+2018-08-18 14:48:13 - PHP Warning:  fopen(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.catalog.language.1534607293): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 49
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 51
+2018-08-18 14:48:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 53
+2018-08-18 14:48:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 55
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 57
+2018-08-18 14:48:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 59
+2018-08-18 14:48:13 - PHP Warning:  fopen(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.currency.1534607293): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 49
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 51
+2018-08-18 14:48:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 53
+2018-08-18 14:48:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 55
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 57
+2018-08-18 14:48:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 59
+2018-08-18 14:48:13 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/oc3/upload/system/framework.php:42) in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/startup/startup.php on line 157
+2018-08-18 14:48:13 - PHP Warning:  fopen(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.catalog.language.1534607293): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 49
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 51
+2018-08-18 14:48:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 53
+2018-08-18 14:48:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 55
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 57
+2018-08-18 14:48:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 59
+2018-08-18 14:48:13 - PHP Warning:  fopen(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.currency.1534607293): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 49
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 51
+2018-08-18 14:48:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 53
+2018-08-18 14:48:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 55
+2018-08-18 14:48:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 57
+2018-08-18 14:48:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 59
+2018-08-18 16:15:30 - Encountered a permanent redirect while requesting https://oc3.s3.ap-southeast-1.amazonaws.com/catalog/Miniclip-8-Ball-Pool-Avatar-14.png. Are you sure you are using the correct region for this bucket?
+2018-08-18 16:16:09 - Encountered a permanent redirect while requesting https://oc3.s3.ap-southeast-1.amazonaws.com/catalog/Miniclip-8-Ball-Pool-Avatar-14.png. Are you sure you are using the correct region for this bucket?
+2018-08-18 17:35:08 - PHP Warning:  unlink(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.catalog.language.1534617308): No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 68
+2018-08-18 17:35:08 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/oc3/upload/system/framework.php:42) in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/startup/startup.php on line 157
+2018-08-18 17:35:29 - PHP Warning:  unlink(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.catalog.language.1534617329): No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 68
+2018-08-18 17:35:29 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/oc3/upload/system/framework.php:42) in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/startup/startup.php on line 157
+2018-08-18 17:36:55 - PHP Warning:  unlink(/Applications/MAMP/htdocs/oc3/upload/storage/cache/cache.catalog.language.1534617415): No such file or directory in /Applications/MAMP/htdocs/oc3/upload/system/library/cache/file.php on line 68
+2018-08-18 17:36:55 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/oc3/upload/system/framework.php:42) in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/startup/startup.php on line 157
+2018-08-18 17:43:08 - PHP Warning:  file_get_contents(https: //raw.githubusercontent.com/baleethai/Thailand-Address/master/districts.json): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/common/home.php on line 23
+2018-08-18 17:43:09 - PHP Warning:  file_get_contents(https: //raw.githubusercontent.com/baleethai/Thailand-Address/master/districts.json): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/oc3/upload/catalog/controller/common/home.php on line 23

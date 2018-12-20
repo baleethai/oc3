@@ -1,0 +1,36 @@
+body {
+	font-size: 12px;
+}
+.breadcrumb {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.nav-tabs {
+	margin-bottom: 25px;
+}
+#menu > ul li ul {
+	margin-top: -2px !important;
+}
+#menu > ul li ul ul {
+	margin: -31px 0 0 151px !important;
+}
+.success, .warning, .attention {
+	background-image: none;
+}
+.table thead td span[data-toggle="tooltip"]::after, label.control-label span::after {
+	color: #1e91cf;
+    content: "\f059";
+    font-family: FontAwesome;
+    margin-left: 4px;
+}
+div.required .control-label:not(span):before, td.required:before {
+	content: '* ';
+	color: #F00;
+	font-weight: bold;
+}
+div.required {
+	color: #000000;
+	font-weight: normal;
+}
+input[type="text"], input[type="password"] {
+	padding: 6px 12px;
+}
